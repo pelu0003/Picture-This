@@ -10,13 +10,13 @@ body {
 .header {
   display: grid;
   grid-template-columns: 1fr;
-  align-items: center;
-  background-color: cadetblue;
+  align-items:self-start;
+  background-color: rgb(180, 165, 241);
 }
 
 .title {
   padding: 50px 25px;
-  text-align: center;
+  text-align:end;
 }
 
 h1 {
